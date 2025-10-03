@@ -123,6 +123,36 @@
     "value": "",
     "group": "Timer Odměny"
   },
+  "timer_reward_6": {
+    "type": "string",
+    "label": "Odměna 6 (VIDITELNE:JMENO ODMENY:SEC)",
+    "value": "",
+    "group": "Timer Odměny"
+  },
+  "timer_reward_7": {
+    "type": "string",
+    "label": "Odměna 7 (VIDITELNE:JMENO ODMENY:SEC)",
+    "value": "",
+    "group": "Timer Odměny"
+  },
+  "timer_reward_8": {
+    "type": "string",
+    "label": "Odměna 8 (VIDITELNE:JMENO ODMENY:SEC)",
+    "value": "",
+    "group": "Timer Odměny"
+  },
+  "timer_reward_9": {
+    "type": "string",
+    "label": "Odměna 9 (VIDITELNE:JMENO ODMENY:SEC)",
+    "value": "",
+    "group": "Timer Odměny"
+  },
+  "timer_reward_10": {
+    "type": "string",
+    "label": "Odměna 10 (VIDITELNE:JMENO ODMENY:SEC)",
+    "value": "",
+    "group": "Timer Odměny"
+  },
   "oneTime_reward_1": {
     "type": "string",
     "label": "Odměna 1 (VIDITELNE:JMENO ODMENY)",
@@ -150,6 +180,36 @@
   "oneTime_reward_5": {
     "type": "string",
     "label": "Odměna 5 (VIDITELNE:JMENO ODMENY)",
+    "value": "",
+    "group": "Jednorázové Odměny"
+  },
+  "oneTime_reward_6": {
+    "type": "string",
+    "label": "Odměna 6 (VIDITELNE:JMENO ODMENY)",
+    "value": "",
+    "group": "Jednorázové Odměny"
+  },
+  "oneTime_reward_7": {
+    "type": "string",
+    "label": "Odměna 7 (VIDITELNE:JMENO ODMENY)",
+    "value": "",
+    "group": "Jednorázové Odměny"
+  },
+  "oneTime_reward_8": {
+    "type": "string",
+    "label": "Odměna 8 (VIDITELNE:JMENO ODMENY)",
+    "value": "",
+    "group": "Jednorázové Odměny"
+  },
+  "oneTime_reward_9": {
+    "type": "string",
+    "label": "Odměna 9 (VIDITELNE:JMENO ODMENY)",
+    "value": "",
+    "group": "Jednorázové Odměny"
+  },
+  "oneTime_reward_10": {
+    "type": "string",
+    "label": "Odměna 10 (VIDITELNE:JMENO ODMENY)",
     "value": "",
     "group": "Jednorázové Odměny"
   }
